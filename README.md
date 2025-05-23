@@ -1,4 +1,18 @@
 # College Town Dining Analysis
+This project is focused on data analysis for developing a student-centered restaurant chain offering healthy, convenient packed meals for the 18–24 youth demographic in major U.S. college towns. The analysis uses February 2020 as a pre-pandemic baseline to identify viable market opportunities and design a resilient dining concept aligned with student lifestyles.
+1.	Key Demographic: 18-24 year olds
+2.	Areas of Interest:
+    -	Purdue University - Tippecanoe County (18157) 
+    -	University of Illinois Urbana-Champaign - Champaign County (17019)
+    -	Pennsylvania State University - Centre County (42027)
+    -	Indiana University, Bloomington - Monroe County (18105)
+    -	University of Mississippi - Lafayette County (28071) 
+3.	Research Focus: 
+    -	Market Analysis 
+    -	Location Evaluation 
+    -	Brand Appeal 
+    -	Demand Analysis
+
 
 ### 1. Query to get the CBGs with highest youth ratio (>= 80%) among the top 5 counties we selected: 
 ```
